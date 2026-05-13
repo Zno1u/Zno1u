@@ -1,4 +1,4 @@
-# 👋 Hola, soy @Zno1u (Jake)
+# 👋 Hola, soy @Zno1u
 ----------------------------------------------------------------------------------------------------------------
 Estudiante de Ingeniería en Sistemas Computacionales
 Soy un desarrollador en formación apasionado por crear soluciones eficientes
